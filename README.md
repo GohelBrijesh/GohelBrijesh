@@ -5,7 +5,7 @@
 ---
 
 ### 💫 About Me:
-I love to create new and exciting stuff — from mobile apps to full cross-platform experiences.  
+I love to create new and exciting stuff - from mobile apps to full cross-platform experiences.  
 I specialize in **Flutter app development** and have a deep interest in backend integration, UI/UX, and building scalable solutions.  
 I’m always exploring new opportunities and technologies to grow as a developer. 🚀  
 
@@ -36,18 +36,10 @@ I’m always exploring new opportunities and technologies to grow as a developer
 
 ---
 
-### 💼 Check Out My Works:
-- [🏀 Affix](#)
-- [🎮 Enigma Runner](#)
-- [🧩 Neon Widgets](#)
-- [📱 QR/Barcode Scanner](#)
-
----
-
 ### 🤝 Connect With Me:
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#">'https://www.linkedin.com/in/gohel-brijesh-734ab8135'<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
