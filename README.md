@@ -7,7 +7,7 @@
 ---
 
 ### 💫 About Me:
-I love to create new and exciting stuff — from **mobile apps** to **cross-platform experiences**.  
+I love to create new and exciting stuff from **mobile apps** to **cross-platform experiences**.  
 I specialize in **Flutter app development**, **GetX / Bloc state management**, and **API integrations**.  
 I also work with **Kotlin (Android)** and **Swift (iOS)** for native projects.  
 Always eager to learn, collaborate, and build scalable tech solutions that make an impact. 🚀  
@@ -65,7 +65,7 @@ Always eager to learn, collaborate, and build scalable tech solutions that make 
 
 ## 🧰 On-Demand Service Flutter App Showcase
 
-Our **On-Demand Service Flutter App** connects users with various service providers in real-time — whether it’s home cleaning, plumbing, electricians, or beauty services.  
+Our **On-Demand Service Flutter App** connects users with various service providers in real-time whether it’s home cleaning, plumbing, electricians, or beauty services.  
 The app ensures seamless booking, secure payment, and convenient service management.
 
 ### 🔑 Key Features:
